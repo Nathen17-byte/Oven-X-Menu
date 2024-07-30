@@ -1,0 +1,26 @@
+body {
+    background-color: brown;
+  }
+body {
+    font-family: 'Old Standard TT', serif; /* Replace with a vintage-style font */
+    background-color: #ff9d00; /* A soft, aged paper color */
+    background-image: url('Vintage-paper.jpg'); /* Replace with your vintage paper image */
+    background-repeat: repeat;
+    color: #55483C; /* A dark brown text color */
+  }
+  
+  h2, h3 {
+    text-align: center;
+    color: #8B4513; /* A darker brown for headings */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3); /* Adds a subtle shadow */
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
